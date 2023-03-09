@@ -1,0 +1,19 @@
+{
+  "Person" : {
+    "firstName" : "Billel",
+    "lastName" : "KETROUCI",
+    "gender" : "MALE",
+    "birthDate" : "1996-09-09",
+    "createdAt" : "2023-03-09T15:28:53.5996055+01:00",
+    "hobbies" : [ "Mangas", "Animes", "Sports" ],
+    "profession" : {
+      "title" : "Software Engineer",
+      "salary" : 45000
+    },
+    "personalProjectsCompletion" : {
+      "Sports" : 0.18,
+      "Video Game" : 0.07,
+      "Manga" : 0.01
+    }
+  }
+}
